@@ -1,4 +1,4 @@
-# bowlliads-scorekeeper
+# bowlliards-scorekeeper
 Bowlliards Scorekeeper is a cross-platform application for keeping score in a game of bowlliards, written with [LambdaNative](http://lambdanative.org).
 
 It currently targets Windows, Linux, and Andriod. If you develop for OS X or iOS, please consider contributing a build.
