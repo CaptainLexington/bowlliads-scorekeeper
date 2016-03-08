@@ -1,0 +1,22 @@
+# descriptive profile name (will appear in build log)
+SYS_PROFILE="Bowlliads Scorekeeprs"
+# organization identifiers, e.g. yourdomainhere.com:
+SYS_ORGTLD="com"
+SYS_ORGSLD="cwarrendale"
+# iOS release (SYS_IOSRELCERT) and development (SYS_IOSDEVCERT) names:
+SYS_IOSRELCERT="iPhone Distribution: Your iOS identifier here"
+SYS_IOSDEVCERT="iPhone Developer: Your iOS identifier here (XXXXXXXXX)"
+# android keystore password
+SYS_ANDROIDPW="yoursecrethere"
+# BB10 developer password
+SYS_BB10PW="yoursecrethere"
+# BB10 (Z10 or similar) debug device info 
+SYS_BB10DEVICEPW="yoursecrethere"
+SYS_BB10DEVICEIPADDR="development device ip address here"
+SYS_BB10DEVICEPIN="development device pin here"
+# Playbook developer password
+SYS_PLAYBOOKPW="yoursecrethere"
+# Playbook debug device info 
+SYS_PLAYBOOKDEVICEPW="yoursecrethere"
+SYS_PLAYBOOKDEVICEIPADDR="development device ip address here"
+SYS_PLAYBOOKDEVICEPIN="development device pin here"

@@ -1,0 +1,5 @@
+# Automatically generated. Do not edit
+here=/home/captain/Programming/Personal/bowlliards-scorekeeper
+cd /usr/share/lambdanative
+SYS_PATH=$here ./configure $@
+cd $here
