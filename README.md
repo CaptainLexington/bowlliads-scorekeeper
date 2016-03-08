@@ -22,7 +22,7 @@ It currently targets Windows, Linux, and Andriod. If you develop for OS X or iOS
 ## Contribute
   Bug reports, feature requests, and pull requests welcome. Just clone the repo and dig in.
 
-## LICENSE
+## License
   This application is provided under the terms of the MIT License.
 
 
