@@ -27,9 +27,8 @@ It currently targets Windows, Linux, and Andriod. If you develop for OS X or iOS
 
 
 ### The MIT License (MIT)
-=====================
 
-Copyright © `<year>` `<copyright holders>`
+Copyright © 2016 C Warren Dale
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
