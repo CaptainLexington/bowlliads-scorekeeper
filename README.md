@@ -26,7 +26,7 @@ It currently targets Windows, Linux, and Andriod. If you develop for OS X or iOS
   This application is provided under the terms of the MIT License.
 
 
-The MIT License (MIT)
+### The MIT License (MIT)
 =====================
 
 Copyright © `<year>` `<copyright holders>`
