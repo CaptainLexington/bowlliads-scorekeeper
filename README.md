@@ -16,7 +16,7 @@ It currently targets Windows, Linux, and Andriod. If you develop for OS X or iOS
 * **What about current bowlliards scorekeeping solutions?**
   They are either of low quality or available on limited platforms.
 
-* **That seems like a weak justification.**
+* **Well, I mean, what about keeping score by hand?**
   Well, I really just wanted to learn LambdaNative.
 
 ## Contribute
